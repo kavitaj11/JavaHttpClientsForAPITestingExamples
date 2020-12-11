@@ -2,7 +2,7 @@ package test.api;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import us.hyalen.rest.resource.PersonResource;
+import test.api.resource.PersonResource;
 
 import javax.validation.constraints.NotNull;
 import java.io.BufferedReader;
