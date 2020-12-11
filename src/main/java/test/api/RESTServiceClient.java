@@ -1,4 +1,4 @@
-package us.hyalen.rest;
+package test.api;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
